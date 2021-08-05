@@ -5,4 +5,4 @@ public class yeni{
     System.out.println("yeni.java programinda ekrana bir seyler yazdirdik");
 
     }
-}git 
+}
