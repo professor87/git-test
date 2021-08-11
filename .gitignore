@@ -1,3 +1,2 @@
-dizin/
-yazi
-yazi2
+dosyalar/*
+!dosyalar/4.txt
